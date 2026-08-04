@@ -23,9 +23,8 @@ I specialize at the intersection of **Quantitative Analysis** and **Human Resour
 ---
 
 ### Contact me
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GarrettBullish)
-[![Email](https://img.shields.io/badge/-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gbull987@garrettsignal.com)
-[![SNS.ID](https://img.shields.io/badge/-SNS.ID-9945FF?style=for-the-badge&logo=solana&logoColor=white)](https://www.sns.id/domain/garrettbullish)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/eugeneF)
+[![Email](https://img.shields.io/badge/-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eugeneF90@gmail.com)
 
 ---
 
