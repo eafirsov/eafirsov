@@ -2,7 +2,7 @@
 
 ### Quant Talent Manager | Macro Economist | Derivatives Strategium
 
-### Exec
+
 I specialize at the intersection of **Quantitative Analysis** and **Human Resources**. 
 ---
 
