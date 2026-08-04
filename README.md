@@ -2,10 +2,6 @@
 
 ### Quant Talent Manager | Macro Economist | Derivatives Strategium
 
-"In an efficient market, alpha is found in the edge cases."
-
----
-
 ### Exec
 I specialize at the intersection of **Quantitative Analysis** and **Human Resources**. 
 ---
