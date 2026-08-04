@@ -11,7 +11,7 @@ I specialize at the intersection of **Quantitative Analysis** and **Human Resour
 ---
 
 
-### 🛠️ Languages
+### Fluencies
 
 | Domain | Tools & Frameworks |
 | :--- | :--- |
@@ -22,23 +22,11 @@ I specialize at the intersection of **Quantitative Analysis** and **Human Resour
 
 ---
 
-### 📊 Github
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=GarrettBullish&show_icons=true&theme=calm&hide_border=true&count_private=true" alt="Garrett's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarrettBullish&layout=compact&theme=calm&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
-### 📈 Market Intelligence
-* **Futures & Leverage:** Expert in perpetual swaps, margin optimization, and liquidation prevention modeling.
-* **Macro Strategy:** Analyzing fiscal policy, yield curves, and liquidity cycles to drive directional bias.
-* **Risk Management:** Implementing Kelly Criterion-based position sizing and Value at Risk (VaR) frameworks.
-
----
-
-### 📡 Public Addresses
+### Contact
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GarrettBullish)
 [![Email](https://img.shields.io/badge/-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gbull987@garrettsignal.com)
 [![SNS.ID](https://img.shields.io/badge/-SNS.ID-9945FF?style=for-the-badge&logo=solana&logoColor=white)](https://www.sns.id/domain/garrettbullish)
