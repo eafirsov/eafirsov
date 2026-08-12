@@ -1,11 +1,5 @@
 
-
-### Quant Talent Manager | Macro Economist | Derivatives Strategium
-
-
-I specialize at the intersection of **Quantitative Analysis** and **Human Resources**. 
----
-
+### Quant Talent Manager | Macro Economist | Algo Strategium
 
 ### Fluencies
 
