@@ -1,4 +1,4 @@
-# Eugene Firsov
+
 
 ### Quant Talent Manager | Macro Economist | Derivatives Strategium
 
