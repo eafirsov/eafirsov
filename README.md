@@ -1,5 +1,5 @@
 
-### Quant Talent Manager | Macro Economist | Algo Strategium
+### Mentor | Meme Quantitative | Algo 
 
 ### Fluencies
 
